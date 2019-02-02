@@ -10,3 +10,9 @@ device. The device would then respond to requested call by sending a text messag
 containing Short URL of embed map. User could open this link to find the location of
 the vehicle on any smartphone with google maps application. Logged Data could also
 be used for surveillance of rented vehicles.
+
+
+
+
+![](BlockDiagram.PNG)
+   
